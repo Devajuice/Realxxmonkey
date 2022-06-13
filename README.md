@@ -19,7 +19,7 @@
 
 ### :technologist: About Me :
 I am a Half Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m studying and contributing to frontend for building web applications.
+- :telescope: I’m studying and building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
